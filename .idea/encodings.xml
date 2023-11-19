@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/Ex1/Domain/Chair.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Ex1/Domain/Dresser.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Ex1/Domain/Table.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Ex1/Ex1Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Ex2/Domain/ClassicChair.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Ex2/Domain/ClassicTable.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Ex2/Domain/MinChair.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Ex2/Domain/MinTable.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Ex2/Domain/ModernChair.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Ex2/Domain/ModernTable.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Ex2/Ex2Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Ex3/Domain/DataBaseNeo4j.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Ex3/Domain/DataBaseNoSQL.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Ex3/Domain/DataBaseSQL.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Ex3/Ex3Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Ex4/Adapters/OTFAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Ex4/Adapters/TTFAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Ex4/Domain/OTF.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Ex4/Domain/TTF.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Ex4/Domain/WOFF.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Ex4/Domain/WOFF2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Ex4/Ex4Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Main.java" charset="UTF-8" />
+  </component>
+</project>
