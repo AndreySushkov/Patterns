@@ -5,6 +5,15 @@
     <file url="file://$PROJECT_DIR$/src/Ex1/Domain/Dresser.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/Ex1/Domain/Table.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/Ex1/Ex1Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Ex10/Domain/CheckingBook.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Ex10/Domain/LibraryManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Ex10/Domain/MakingOrder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Ex10/Domain/Searching.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Ex10/Ex10Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Ex12/Domain/Component.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Ex12/Domain/File.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Ex12/Domain/Folder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Ex12/Ex12Main.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/Ex2/Domain/ClassicChair.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/Ex2/Domain/ClassicTable.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/Ex2/Domain/MinChair.java" charset="UTF-8" />
@@ -23,6 +32,17 @@
     <file url="file://$PROJECT_DIR$/src/Ex4/Domain/WOFF.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/Ex4/Domain/WOFF2.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/Ex4/Ex4Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Ex7/Domain/Circle.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Ex7/Domain/Line.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Ex7/Domain/Rectangle.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Ex7/Ex7Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Ex8/Domain/History.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Ex8/Domain/OperationSystem.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Ex8/Domain/Snapshot.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Ex8/Ex8Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Ex9/Domain/Manager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Ex9/Domain/Window.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Ex9/Ex9Main.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/Main.java" charset="UTF-8" />
   </component>
 </project>
